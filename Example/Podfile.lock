@@ -1,0 +1,16 @@
+PODS:
+  - newsdkpoddata (0.1.0)
+
+DEPENDENCIES:
+  - newsdkpoddata (from `../`)
+
+EXTERNAL SOURCES:
+  newsdkpoddata:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  newsdkpoddata: 0ff9ad5c32fe1370d986c5bd527a36d5aefb6845
+
+PODFILE CHECKSUM: 6b27d183693cac2ffccd63b88abce9bc0a4f4cd0
+
+COCOAPODS: 1.15.2

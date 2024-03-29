@@ -1,0 +1,6 @@
+framework module newsdkpoddata {
+  umbrella header "newsdkpoddata-umbrella.h"
+
+  export *
+  module * { export * }
+}

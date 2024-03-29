@@ -1,0 +1,22 @@
+{
+  "name": "newsdkpoddata",
+  "version": "0.1.0",
+  "summary": "A short description of newsdkpoddata.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mobileexpert1/newsdkpoddata",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mobileexpert1": "appsdev096@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mobileexpert1/newsdkpoddata.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "newsdkpoddata/Classes/**/*"
+}
