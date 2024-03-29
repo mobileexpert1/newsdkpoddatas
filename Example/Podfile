@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'newsdkpoddata_Example' do
+  pod 'newsdkpoddata', :path => '../'
+
+  target 'newsdkpoddata_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
